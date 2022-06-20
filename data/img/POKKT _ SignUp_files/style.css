@@ -1,0 +1,10 @@
+.navbar{
+    background-color: transparent;
+    position: relative;
+    align-items: center;
+}
+#pokktimg{
+    align-self: center;
+    width: 100px;
+    height: 80px;
+}
